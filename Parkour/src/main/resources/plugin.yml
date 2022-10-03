@@ -1,0 +1,7 @@
+name: Parkour
+version: '${version}'
+main: plunzi.sh.parkour.Parkour
+api-version: 1.18
+authors: [ CaMock ]
+description: parkour plugin for plunzi studios
+website: plunzi.sh
